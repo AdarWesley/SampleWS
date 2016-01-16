@@ -1,0 +1,4 @@
+com\techartifact\example\spring\model\RestFulCity.class
+com\techartifact\example\spring\model\City.class
+com\techartifact\example\spring\service\CitiesListingService.class
+com\techartifact\example\spring\model\RestFulCities.class

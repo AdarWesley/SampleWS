@@ -1,0 +1,4 @@
+com\lessonslab\cxfrestservice\internal\CxfRestServiceImpl.class
+com\lessonslab\cxfrestservice\model\Employee.class
+com\lessonslab\cxfrestservice\dao\EmployeeDao.class
+com\lessonslab\cxfrestservice\CxfRestService.class
