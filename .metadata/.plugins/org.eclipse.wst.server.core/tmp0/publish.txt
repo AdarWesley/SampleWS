@@ -1,5 +1,0 @@
-#Tomcat publish data
-#Sat Jan 16 21:12:18 IST 2016
-org.eclipse.jst.j2ee.server\:RESTfulExample=C\:\\Apache Software Foundation\\Apache Tomcat 8.0.27\\webapps\\RESTfulExample
-org.eclipse.jst.jee.server\:CxfRestService=C\:\\Apache Software Foundation\\Apache Tomcat 8.0.27\\webapps\\CxfRestService
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\AWesley\\.m2\\repository\\org\\springframework\\spring-web\\4.1.2.RELEASE\\spring-web-4.1.2.RELEASE.jar=C\:\\Apache Software Foundation\\Apache Tomcat 8.0.27\\webapps\\CxfRestService\\WEB-INF\\lib\\spring-web-4.1.2.RELEASE.jar
