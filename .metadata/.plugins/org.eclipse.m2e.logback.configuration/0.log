@@ -1449,3 +1449,696 @@
 2016-02-12 17:41:35,594 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.3.2.RELEASE/spring-boot-autoconfigure-1.3.2.RELEASE-sources.jar
 2016-02-12 17:41:37,088 [Worker-53] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.3.2.RELEASE/spring-boot-autoconfigure-1.3.2.RELEASE-sources.jar
 2016-02-12 17:41:37,164 [Worker-53] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-autoconfigure:1.3.2.RELEASE
+2016-02-18 23:18:23,897 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: awesley.samples:VisitorPattern:0.0.1-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\VisitorPattern\pom.xml.
+2016-02-18 23:18:24,734 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /VisitorPattern/src/main/java
+2016-02-18 23:18:24,736 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /VisitorPattern/src/main/resources
+2016-02-18 23:18:24,737 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /VisitorPattern/src/test/java
+2016-02-18 23:18:24,737 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /VisitorPattern/src/test/resources
+2016-02-20 23:07:30,817 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 23:07:30,880 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-20 23:07:30,882 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 23:07:30,886 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-20 23:10:45,223 [Worker-168] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 23:10:45,232 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-20 23:10:45,233 [Worker-168] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-20 23:10:45,238 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-25 23:56:29,762 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 23:56:29,775 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-25 23:56:29,777 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 23:56:29,781 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-26 00:02:19,850 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-26 00:02:19,858 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-26 00:02:19,860 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-26 00:02:19,863 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-26 00:03:38,038 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-26 00:03:38,046 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-26 00:03:38,047 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-26 00:03:38,051 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-26 00:10:35,591 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-26 00:10:35,595 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-02-26 00:10:35,597 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-26 00:10:35,600 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-03-29 22:16:36,888 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample\pom.xml
+2016-03-29 22:16:39,609 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.SamplesAW:ReactSample:0.0.1-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample\pom.xml.
+2016-03-29 22:16:40,713 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ReactSample/src/main/java
+2016-03-29 22:16:40,715 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ReactSample/src/test/java
+2016-03-29 22:16:40,918 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2016-03-29 22:16:41,980 [Worker-13] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/AWesley/AppData/Local/Temp/RemoteBundleDiscoveryStrategy6311098864871927746.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_5246857196026289160.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2016-03-29 22:16:41,981 [Worker-13] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2016-03-29 22:16:41,990 [Worker-13] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/AWesley/AppData/Local/Temp/RemoteBundleDiscoveryStrategy6311098864871927746.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_5246857196026289160.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2016-03-29 22:16:41,991 [Worker-13] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2016-03-29 22:20:24,590 [main] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/AWesley/AppData/Local/Temp/RemoteBundleDiscoveryStrategy858659422279670098.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_1646852914370840366.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2016-03-29 22:20:24,591 [main] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2016-03-29 22:20:24,598 [main] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/AWesley/AppData/Local/Temp/RemoteBundleDiscoveryStrategy858659422279670098.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_1646852914370840366.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2016-03-29 22:20:24,598 [main] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2016-03-29 22:35:46,216 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-03-29 22:35:53,656 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample
+2016-03-29 22:35:53,657 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2016-03-29 22:36:47,020 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-03-29 22:36:53,520 [Worker-74] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample
+2016-03-29 22:36:53,520 [Worker-74] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-03-29 22:40:50,800 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-03-29 22:40:50,878 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample
+2016-03-29 22:40:50,883 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-03-29 22:44:50,070 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-03-29 22:44:50,153 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample
+2016-03-29 22:44:50,161 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-03-29 22:46:36,167 [main] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/AWesley/AppData/Local/Temp/RemoteBundleDiscoveryStrategy3620457421928890357.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_707709000977659076.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2016-03-29 22:46:36,167 [main] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2016-03-29 22:46:36,195 [main] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/AWesley/AppData/Local/Temp/RemoteBundleDiscoveryStrategy3620457421928890357.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_707709000977659076.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2016-03-29 22:46:36,195 [main] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2016-03-29 22:50:59,269 [Worker-15] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2016-03-29 22:52:52,030 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-03-29 22:52:52,115 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample
+2016-03-29 22:52:52,115 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-03-29 23:02:18,404 [Worker-15] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 679140 ms
+2016-03-29 23:03:33,590 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.SamplesAW:ReactSample:0.0.1-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample\pom.xml.
+2016-03-29 23:03:34,100 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-29 23:03:34,100 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample\dest
+2016-03-29 23:03:34,101 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-29 23:03:34,102 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample\src\main\resources
+2016-03-29 23:03:34,103 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-29 23:03:34,103 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample\src\test\resources
+2016-03-29 23:06:50,145 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-03-29 23:06:50,193 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample
+2016-03-29 23:06:50,194 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-04-23 20:46:54,816 [Worker-6] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2016-04-23 20:50:55,884 [Worker-6] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 241070 ms
+2016-04-23 21:04:07,517 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-04-23 21:04:07,891 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample
+2016-04-23 21:04:07,892 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-05-06 18:49:51,691 [Worker-11] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2016-05-06 18:52:46,281 [Worker-11] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 174593 ms
+2016-05-27 22:38:26,541 [Worker-12] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2016-05-27 22:40:02,421 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-05-27 22:40:17,857 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\JAXRSCxfSample
+2016-05-27 22:40:17,858 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2016-05-27 22:43:18,657 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-05-27 22:43:26,360 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\JAXRSCxfSample
+2016-05-27 22:43:26,360 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-05-27 22:48:09,163 [main] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/AWesley/AppData/Local/Temp/RemoteBundleDiscoveryStrategy2998708007661659845.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_4578488362098965898.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2016-05-27 22:48:09,164 [main] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2016-05-27 22:48:09,174 [main] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/AWesley/AppData/Local/Temp/RemoteBundleDiscoveryStrategy2998708007661659845.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_4578488362098965898.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2016-05-27 22:48:09,174 [main] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2016-05-27 22:49:40,321 [Worker-12] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 673785 ms
+2016-05-27 22:55:25,807 [Worker-9] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2016-05-27 22:55:30,018 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CxfRestService:CxfRestService:1.0.0-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\CxfRestService\pom.xml.
+2016-05-27 22:55:31,153 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: awesley.samples:JAXRSCxfSample:0.1-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\JAXRSCxfSample\pom.xml.
+2016-05-27 22:55:31,411 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:RESTfulExample:1.0-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\RESTfulExample\pom.xml.
+2016-05-27 22:55:31,865 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.SamplesAW:ReactSample:0.0.1-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample\pom.xml.
+2016-05-27 22:55:32,479 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: awesley.samples:SpringBootJAXRS:0.0.1-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\SpringBootJAXRS\pom.xml.
+2016-05-27 22:55:33,420 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-27 22:55:35,193 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: awesley.samples:JAXRSCxfSample:0.1-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\JAXRSCxfSample\pom.xml.
+2016-05-27 22:55:35,502 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.SamplesAW:ReactSample:0.0.1-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample\pom.xml.
+2016-05-27 22:55:36,866 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-05-27 22:55:36,901 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-05-27 22:55:37,836 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JAXRSCxfSample/src/main/java
+2016-05-27 22:55:37,837 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JAXRSCxfSample/src/test/java
+2016-05-27 22:55:38,620 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CxfRestService:CxfRestService:1.0.0-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\CxfRestService\pom.xml.
+2016-05-27 22:55:38,911 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ReactSample/src/main/java
+2016-05-27 22:55:38,912 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ReactSample/src/test/java
+2016-05-27 22:55:39,348 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: awesley.samples:JAXRSCxfSample:0.1-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\JAXRSCxfSample\pom.xml.
+2016-05-27 22:55:39,451 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JAXRSCxfSample
+2016-05-27 22:55:39,532 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2016-05-27 22:55:39,831 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:RESTfulExample:1.0-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\RESTfulExample\pom.xml.
+2016-05-27 22:55:39,973 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.SamplesAW:ReactSample:0.0.1-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample\pom.xml.
+2016-05-27 22:55:40,324 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: awesley.samples:SpringBootJAXRS:0.0.1-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\SpringBootJAXRS\pom.xml.
+2016-05-27 22:55:41,010 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-05-27 22:55:41,023 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-05-27 22:55:41,434 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: awesley.samples:VisitorPattern:0.0.1-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\VisitorPattern\pom.xml.
+2016-05-27 22:55:41,526 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.techartifact.examples:spring-RESTApplication:1.0 @ C:\Users\AWesley\WorkSpaces\SamplesWS\spring-RESTapplication\pom.xml.
+2016-05-27 22:58:45,774 [main] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/AWesley/AppData/Local/Temp/RemoteBundleDiscoveryStrategy5825421407146296745.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_3642299590174719037.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2016-05-27 22:58:45,775 [main] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2016-05-27 22:58:45,791 [main] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/AWesley/AppData/Local/Temp/RemoteBundleDiscoveryStrategy5825421407146296745.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_3642299590174719037.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2016-05-27 22:58:45,791 [main] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2016-05-27 23:00:44,750 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-27 23:00:54,273 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:RESTfulExample:1.0-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\RESTfulExample\pom.xml.
+2016-05-27 23:00:54,720 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.techartifact.examples:spring-RESTApplication:1.0 @ C:\Users\AWesley\WorkSpaces\SamplesWS\spring-RESTapplication\pom.xml.
+2016-05-27 23:00:59,415 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CxfRestService:CxfRestService:1.0.0-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\CxfRestService\pom.xml.
+2016-05-27 23:01:12,013 [Worker-9] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 346211 ms
+2016-05-27 23:01:12,425 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RESTfulExample/src/main/java
+2016-05-27 23:01:12,425 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RESTfulExample/src/main/resources
+2016-05-27 23:01:12,430 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RESTfulExample/src/test/java
+2016-05-27 23:01:13,017 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-RESTapplication/src/main/java
+2016-05-27 23:01:13,018 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-RESTapplication/src/main/resources
+2016-05-27 23:01:13,023 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-RESTapplication/src/test/java
+2016-05-27 23:01:15,237 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CxfRestService/src
+2016-05-27 23:01:15,238 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CxfRestService/src/test/java because it overlaps with /CxfRestService/src
+2016-05-27 23:01:15,928 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RESTfulExample
+2016-05-27 23:01:15,957 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-RESTapplication
+2016-05-27 23:01:15,995 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CxfRestService
+2016-05-27 23:01:16,006 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 31 sec
+2016-05-27 23:01:17,292 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 23:01:17,303 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 23:01:17,310 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 23:01:17,320 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\WorkSpaces\SamplesWS\RESTfulExample\src\test\resources
+2016-05-27 23:01:17,321 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RESTfulExample
+2016-05-27 23:01:17,337 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RESTfulExample
+2016-05-27 23:01:17,346 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 23:01:17,863 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 23:01:17,870 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\WorkSpaces\SamplesWS\CxfRestService\src\main\resources
+2016-05-27 23:01:17,877 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 23:01:17,884 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\WorkSpaces\SamplesWS\CxfRestService\src\test\resources
+2016-05-27 23:01:17,885 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CxfRestService
+2016-05-27 23:01:17,885 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CxfRestService
+2016-05-27 23:01:17,889 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 23:01:20,256 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 23:01:20,261 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\WorkSpaces\SamplesWS\JAXRSCxfSample\src\main\resources
+2016-05-27 23:01:20,262 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 23:01:20,271 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\WorkSpaces\SamplesWS\JAXRSCxfSample\src\test\resources
+2016-05-27 23:01:20,433 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.SamplesAW:ReactSample:0.0.1-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample\pom.xml.
+2016-05-27 23:01:20,501 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 23:01:20,502 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-27 23:01:20,627 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 23:01:20,628 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample\src\main\resources
+2016-05-27 23:01:20,629 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 23:01:20,629 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample\src\test\resources
+2016-05-27 23:01:25,609 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-05-27 23:01:25,626 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-05-27 23:01:25,888 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 23:01:25,889 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-27 23:01:25,900 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 23:01:25,901 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-27 23:01:25,906 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\WorkSpaces\SamplesWS\SpringBootJAXRS\src\test\resources
+2016-05-27 23:01:26,507 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 23:01:26,513 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 23:01:26,514 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 23:01:26,518 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 23:01:27,041 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 23:01:27,057 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 23:01:27,058 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 23:01:27,067 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\WorkSpaces\SamplesWS\spring-RESTapplication\src\test\resources
+2016-05-27 23:01:27,068 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-RESTapplication
+2016-05-27 23:01:27,085 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-RESTapplication
+2016-05-27 23:01:27,089 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 23:01:27,795 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 23:01:27,803 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-27 23:01:27,804 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-27 23:01:27,810 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\WorkSpaces\SamplesWS\spring-RESTapplication\src\test\resources
+2016-05-27 23:04:29,996 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-05-27 23:04:38,817 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample
+2016-05-27 23:04:38,824 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-05-27 23:15:40,271 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-05-27 23:15:48,881 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\ReactSample
+2016-05-27 23:15:48,887 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-05-27 23:28:46,006 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.1.2.RELEASE/spring-web-4.1.2.RELEASE-sources.jar
+2016-05-27 23:28:46,687 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.1.2.RELEASE/spring-web-4.1.2.RELEASE-sources.jar
+2016-05-27 23:28:46,805 [Worker-31] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:4.1.2.RELEASE
+2016-05-28 12:22:51,462 [Worker-0] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2016-05-28 12:23:06,902 [Worker-0] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 15448 ms
+2016-05-31 20:11:51,055 [Worker-7] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2016-05-31 20:14:13,336 [Worker-7] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 142284 ms
+2016-06-05 22:40:46,499 [Worker-9] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2016-06-05 22:41:03,532 [Worker-9] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 17037 ms
+2016-07-07 22:06:33,848 [Worker-0] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2016-07-07 22:09:27,688 [Worker-0] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 173846 ms
+2016-07-07 22:11:09,987 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.SamplesAW:TestJson:0.0.1-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\TestJson\pom.xml.
+2016-07-07 22:11:11,108 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestJson/src/main/java
+2016-07-07 22:11:11,109 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TestJson/src/main/resources
+2016-07-07 22:11:11,110 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestJson/src/test/java
+2016-07-07 22:11:11,110 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TestJson/src/test/resources
+2016-07-07 22:15:55,396 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-07-07 22:16:15,717 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\TestJson
+2016-07-07 22:16:15,717 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-07-07 22:16:50,918 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/takari/m2e/workspace/org.eclipse.m2e.workspace.cli/0.3.1/org.eclipse.m2e.workspace.cli-0.3.1-sources.jar
+2016-07-07 22:16:51,025 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/m2e/workspace/org.eclipse.m2e.workspace.cli/0.3.1/org.eclipse.m2e.workspace.cli-0.3.1-sources.jar
+2016-07-07 22:16:51,497 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2-sources.jar
+2016-07-07 22:16:51,848 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2-sources.jar
+2016-07-07 22:16:52,248 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/takari/aether/takari-local-repository/0.9.0/takari-local-repository-0.9.0-sources.jar
+2016-07-07 22:16:52,342 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/aether/takari-local-repository/0.9.0/takari-local-repository-0.9.0-sources.jar
+2016-07-07 22:16:52,723 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/takari/takari-filemanager/0.7.0/takari-filemanager-0.7.0-sources.jar
+2016-07-07 22:16:52,814 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/takari-filemanager/0.7.0/takari-filemanager-0.7.0-sources.jar
+2016-07-07 22:16:53,195 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.3.3/maven-core-3.3.3-sources.jar
+2016-07-07 22:16:53,671 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.3.3/maven-core-3.3.3-sources.jar
+2016-07-07 22:16:54,044 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.3.3/maven-model-3.3.3-sources.jar
+2016-07-07 22:16:54,340 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.3.3/maven-model-3.3.3-sources.jar
+2016-07-07 22:16:54,726 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.3.3/maven-settings-3.3.3-sources.jar
+2016-07-07 22:16:54,965 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.3.3/maven-settings-3.3.3-sources.jar
+2016-07-07 22:16:55,342 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.3.3/maven-settings-builder-3.3.3-sources.jar
+2016-07-07 22:16:55,680 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.3.3/maven-settings-builder-3.3.3-sources.jar
+2016-07-07 22:16:56,060 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.3.3/maven-builder-support-3.3.3-sources.jar
+2016-07-07 22:16:56,251 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.3.3/maven-builder-support-3.3.3-sources.jar
+2016-07-07 22:16:56,668 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.3.3/maven-repository-metadata-3.3.3-sources.jar
+2016-07-07 22:16:56,885 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.3.3/maven-repository-metadata-3.3.3-sources.jar
+2016-07-07 22:16:57,314 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.3.3/maven-artifact-3.3.3-sources.jar
+2016-07-07 22:16:57,671 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.3.3/maven-artifact-3.3.3-sources.jar
+2016-07-07 22:16:58,050 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.3.3/maven-plugin-api-3.3.3-sources.jar
+2016-07-07 22:16:58,451 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.3.3/maven-plugin-api-3.3.3-sources.jar
+2016-07-07 22:16:58,849 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.3.3/maven-model-builder-3.3.3-sources.jar
+2016-07-07 22:16:59,153 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.3.3/maven-model-builder-3.3.3-sources.jar
+2016-07-07 22:16:59,526 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.3.3/maven-aether-provider-3.3.3-sources.jar
+2016-07-07 22:16:59,842 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.3.3/maven-aether-provider-3.3.3-sources.jar
+2016-07-07 22:17:00,280 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/1.0.2.v20150114/aether-api-1.0.2.v20150114-sources.jar
+2016-07-07 22:17:00,590 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/1.0.2.v20150114/aether-api-1.0.2.v20150114-sources.jar
+2016-07-07 22:17:00,987 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/1.0.2.v20150114/aether-util-1.0.2.v20150114-sources.jar
+2016-07-07 22:17:01,286 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/1.0.2.v20150114/aether-util-1.0.2.v20150114-sources.jar
+2016-07-07 22:17:01,721 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21-sources.jar
+2016-07-07 22:17:01,950 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21-sources.jar
+2016-07-07 22:17:02,350 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20-sources.jar
+2016-07-07 22:17:02,825 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20-sources.jar
+2016-07-07 22:17:03,222 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar
+2016-07-07 22:17:03,312 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar
+2016-07-07 22:17:03,777 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3-sources.jar
+2016-07-07 22:17:03,969 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3-sources.jar
+2016-07-07 22:17:04,359 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.3.3/maven-embedder-3.3.3-sources.jar
+2016-07-07 22:17:04,584 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.3.3/maven-embedder-3.3.3-sources.jar
+2016-07-07 22:17:04,973 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7-sources.jar
+2016-07-07 22:17:05,087 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7-sources.jar
+2016-07-07 22:17:05,475 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar
+2016-07-07 22:17:05,818 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar
+2016-07-07 22:17:06,252 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.3.3/maven-compat-3.3.3-sources.jar
+2016-07-07 22:17:06,675 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.3.3/maven-compat-3.3.3-sources.jar
+2016-07-07 22:17:07,052 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.9/wagon-provider-api-2.9-sources.jar
+2016-07-07 22:17:07,277 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.9/wagon-provider-api-2.9-sources.jar
+2016-07-07 22:17:07,682 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar
+2016-07-07 22:17:07,977 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar
+2016-07-07 22:17:08,375 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/guava-18.0-sources.jar
+2016-07-07 22:17:09,281 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/guava-18.0-sources.jar
+2016-07-07 22:17:09,786 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/1.0.2.v20150114/aether-impl-1.0.2.v20150114-sources.jar
+2016-07-07 22:17:10,086 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/1.0.2.v20150114/aether-impl-1.0.2.v20150114-sources.jar
+2016-07-07 22:17:10,483 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/1.0.2.v20150114/aether-spi-1.0.2.v20150114-sources.jar
+2016-07-07 22:17:10,829 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/1.0.2.v20150114/aether-spi-1.0.2.v20150114-sources.jar
+2016-07-07 22:17:11,229 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/takari/aether/aether-connector-okhttp/0.16.0/aether-connector-okhttp-0.16.0-sources.jar
+2016-07-07 22:17:11,446 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/aether/aether-connector-okhttp/0.16.0/aether-connector-okhttp-0.16.0-sources.jar
+2016-07-07 22:17:11,856 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okhttp/okhttp/2.5.0/okhttp-2.5.0-sources.jar
+2016-07-07 22:17:12,229 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp/okhttp/2.5.0/okhttp-2.5.0-sources.jar
+2016-07-07 22:17:12,623 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.6.0/okio-1.6.0-sources.jar
+2016-07-07 22:17:12,855 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.6.0/okio-1.6.0-sources.jar
+2016-07-07 22:17:13,234 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-connector-basic/1.0.2.v20150114/aether-connector-basic-1.0.2.v20150114-sources.jar
+2016-07-07 22:17:13,427 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-connector-basic/1.0.2.v20150114/aether-connector-basic-1.0.2.v20150114-sources.jar
+2016-07-07 22:17:13,855 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-transport-wagon/1.0.2.v20150114/aether-transport-wagon-1.0.2.v20150114-sources.jar
+2016-07-07 22:17:14,041 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-transport-wagon/1.0.2.v20150114/aether-transport-wagon-1.0.2.v20150114-sources.jar
+2016-07-07 22:17:14,429 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/2.9/wagon-file-2.9-sources.jar
+2016-07-07 22:17:14,527 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/2.9/wagon-file-2.9-sources.jar
+2016-07-07 22:17:14,938 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2016-07-07 22:17:15,402 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2016-07-07 22:17:15,864 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar
+2016-07-07 22:17:15,975 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar
+2016-07-07 22:18:45,758 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-07-07 22:18:45,864 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\TestJson
+2016-07-07 22:18:45,870 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-07-07 22:20:02,634 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-07 22:20:03,254 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.SamplesAW:TestJson:0.0.1-SNAPSHOT @ C:\Users\AWesley\WorkSpaces\SamplesWS\TestJson\pom.xml.
+2016-07-07 22:20:03,587 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestJson/src/main/java
+2016-07-07 22:20:03,593 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TestJson/src/main/resources
+2016-07-07 22:20:03,598 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestJson/src/test/java
+2016-07-07 22:20:03,602 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TestJson/src/test/resources
+2016-07-07 22:20:03,815 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-07-07 22:24:05,762 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-07-07 22:24:05,849 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\TestJson
+2016-07-07 22:24:05,859 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-07-07 22:25:24,295 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-gitexe/1.9.1/maven-scm-provider-gitexe-1.9.1.pom
+2016-07-07 22:25:24,380 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-gitexe/1.9.1/maven-scm-provider-gitexe-1.9.1.pom
+2016-07-07 22:25:24,474 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-providers-git/1.9.1/maven-scm-providers-git-1.9.1.pom
+2016-07-07 22:25:24,570 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-providers-git/1.9.1/maven-scm-providers-git-1.9.1.pom
+2016-07-07 22:25:24,655 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-providers/1.9.1/maven-scm-providers-1.9.1.pom
+2016-07-07 22:25:24,741 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-providers/1.9.1/maven-scm-providers-1.9.1.pom
+2016-07-07 22:25:24,825 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm/1.9.1/maven-scm-1.9.1.pom
+2016-07-07 22:25:24,984 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm/1.9.1/maven-scm-1.9.1.pom
+2016-07-07 22:25:25,141 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.pom
+2016-07-07 22:25:25,233 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.pom
+2016-07-07 22:25:25,319 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/17/commons-parent-17.pom
+2016-07-07 22:25:25,414 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/17/commons-parent-17.pom
+2016-07-07 22:25:25,520 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-git-commons/1.9.1/maven-scm-provider-git-commons-1.9.1.pom
+2016-07-07 22:25:25,607 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-git-commons/1.9.1/maven-scm-provider-git-commons-1.9.1.pom
+2016-07-07 22:25:25,694 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-api/1.9.1/maven-scm-api-1.9.1.pom
+2016-07-07 22:25:25,791 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-api/1.9.1/maven-scm-api-1.9.1.pom
+2016-07-07 22:25:25,899 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-gitexe/1.9.1/maven-scm-provider-gitexe-1.9.1.jar
+2016-07-07 22:25:26,054 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-gitexe/1.9.1/maven-scm-provider-gitexe-1.9.1.jar
+2016-07-07 22:25:26,131 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar
+2016-07-07 22:25:26,363 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar
+2016-07-07 22:25:26,438 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-git-commons/1.9.1/maven-scm-provider-git-commons-1.9.1.jar
+2016-07-07 22:25:26,538 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-git-commons/1.9.1/maven-scm-provider-git-commons-1.9.1.jar
+2016-07-07 22:25:26,613 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-api/1.9.1/maven-scm-api-1.9.1.jar
+2016-07-07 22:25:26,705 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-api/1.9.1/maven-scm-api-1.9.1.jar
+2016-07-07 22:25:26,995 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-manager-plexus/1.9.1/maven-scm-manager-plexus-1.9.1.pom
+2016-07-07 22:25:27,086 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-manager-plexus/1.9.1/maven-scm-manager-plexus-1.9.1.pom
+2016-07-07 22:25:27,170 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-managers/1.9.1/maven-scm-managers-1.9.1.pom
+2016-07-07 22:25:27,260 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-managers/1.9.1/maven-scm-managers-1.9.1.pom
+2016-07-07 22:25:27,373 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-manager-plexus/1.9.1/maven-scm-manager-plexus-1.9.1.jar
+2016-07-07 22:25:27,492 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-manager-plexus/1.9.1/maven-scm-manager-plexus-1.9.1.jar
+2016-07-07 22:25:27,646 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/kathrynhuxtable/maven/wagon/wagon-gitsite/0.3.1/wagon-gitsite-0.3.1.pom
+2016-07-07 22:25:27,738 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/kathrynhuxtable/maven/wagon/wagon-gitsite/0.3.1/wagon-gitsite-0.3.1.pom
+2016-07-07 22:25:27,822 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-api/1.3/maven-scm-api-1.3.pom
+2016-07-07 22:25:27,906 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-api/1.3/maven-scm-api-1.3.pom
+2016-07-07 22:25:27,990 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm/1.3/maven-scm-1.3.pom
+2016-07-07 22:25:28,077 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm/1.3/maven-scm-1.3.pom
+2016-07-07 22:25:28,191 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-manager-plexus/1.3/maven-scm-manager-plexus-1.3.pom
+2016-07-07 22:25:28,275 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-manager-plexus/1.3/maven-scm-manager-plexus-1.3.pom
+2016-07-07 22:25:28,359 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-managers/1.3/maven-scm-managers-1.3.pom
+2016-07-07 22:25:28,447 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-managers/1.3/maven-scm-managers-1.3.pom
+2016-07-07 22:25:28,531 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.4/plexus-container-default-1.5.4.pom
+2016-07-07 22:25:28,615 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.4/plexus-container-default-1.5.4.pom
+2016-07-07 22:25:28,751 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-gitexe/1.3/maven-scm-provider-gitexe-1.3.pom
+2016-07-07 22:25:28,839 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-gitexe/1.3/maven-scm-provider-gitexe-1.3.pom
+2016-07-07 22:25:28,923 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-providers-git/1.3/maven-scm-providers-git-1.3.pom
+2016-07-07 22:25:29,007 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-providers-git/1.3/maven-scm-providers-git-1.3.pom
+2016-07-07 22:25:29,089 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-providers/1.3/maven-scm-providers-1.3.pom
+2016-07-07 22:25:29,177 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-providers/1.3/maven-scm-providers-1.3.pom
+2016-07-07 22:25:29,261 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/regexp/regexp/1.3/regexp-1.3.pom
+2016-07-07 22:25:29,343 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/regexp/regexp/1.3/regexp-1.3.pom
+2016-07-07 22:25:29,426 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-git-commons/1.3/maven-scm-provider-git-commons-1.3.pom
+2016-07-07 22:25:29,514 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-git-commons/1.3/maven-scm-provider-git-commons-1.3.pom
+2016-07-07 22:25:29,634 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/kathrynhuxtable/maven/wagon/wagon-gitsite/0.3.1/wagon-gitsite-0.3.1.jar
+2016-07-07 22:25:29,730 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/kathrynhuxtable/maven/wagon/wagon-gitsite/0.3.1/wagon-gitsite-0.3.1.jar
+2016-07-07 22:25:29,807 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-api/1.3/maven-scm-api-1.3.jar
+2016-07-07 22:25:30,003 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-api/1.3/maven-scm-api-1.3.jar
+2016-07-07 22:25:30,078 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-manager-plexus/1.3/maven-scm-manager-plexus-1.3.jar
+2016-07-07 22:25:30,179 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-manager-plexus/1.3/maven-scm-manager-plexus-1.3.jar
+2016-07-07 22:25:30,256 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-gitexe/1.3/maven-scm-provider-gitexe-1.3.jar
+2016-07-07 22:25:30,370 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-gitexe/1.3/maven-scm-provider-gitexe-1.3.jar
+2016-07-07 22:25:30,447 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/regexp/regexp/1.3/regexp-1.3.jar
+2016-07-07 22:25:30,530 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/regexp/regexp/1.3/regexp-1.3.jar
+2016-07-07 22:25:30,610 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-git-commons/1.3/maven-scm-provider-git-commons-1.3.jar
+2016-07-07 22:25:30,740 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-git-commons/1.3/maven-scm-provider-git-commons-1.3.jar
+2016-07-07 22:25:31,183 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/felix/maven-bundle-plugin/2.5.3/maven-bundle-plugin-2.5.3.pom
+2016-07-07 22:25:31,269 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/felix/maven-bundle-plugin/2.5.3/maven-bundle-plugin-2.5.3.pom
+2016-07-07 22:25:31,352 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/felix/felix-parent/2.1/felix-parent-2.1.pom
+2016-07-07 22:25:31,439 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/felix/felix-parent/2.1/felix-parent-2.1.pom
+2016-07-07 22:25:31,523 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/biz/aQute/bnd/bndlib/2.3.0/bndlib-2.3.0.pom
+2016-07-07 22:25:31,605 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/biz/aQute/bnd/bndlib/2.3.0/bndlib-2.3.0.pom
+2016-07-07 22:25:31,691 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/biz/aQute/bnd/parent/2.3.0/parent-2.3.0.pom
+2016-07-07 22:25:31,778 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/biz/aQute/bnd/parent/2.3.0/parent-2.3.0.pom
+2016-07-07 22:25:31,861 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.pom
+2016-07-07 22:25:31,947 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.pom
+2016-07-07 22:25:32,032 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/felix/org.apache.felix.bundlerepository/1.6.6/org.apache.felix.bundlerepository-1.6.6.pom
+2016-07-07 22:25:32,118 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/felix/org.apache.felix.bundlerepository/1.6.6/org.apache.felix.bundlerepository-1.6.6.pom
+2016-07-07 22:25:32,204 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/osgi/org.osgi.core/4.1.0/org.osgi.core-4.1.0.pom
+2016-07-07 22:25:32,284 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/osgi/org.osgi.core/4.1.0/org.osgi.core-4.1.0.pom
+2016-07-07 22:25:32,367 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/easymock/easymock/2.4/easymock-2.4.pom
+2016-07-07 22:25:32,455 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/easymock/easymock/2.4/easymock-2.4.pom
+2016-07-07 22:25:32,540 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/felix/org.apache.felix.utils/1.6.0/org.apache.felix.utils-1.6.0.pom
+2016-07-07 22:25:32,623 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/felix/org.apache.felix.utils/1.6.0/org.apache.felix.utils-1.6.0.pom
+2016-07-07 22:25:32,709 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/osgi/org.osgi.compendium/4.2.0/org.osgi.compendium-4.2.0.pom
+2016-07-07 22:25:32,795 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/osgi/org.osgi.compendium/4.2.0/org.osgi.compendium-4.2.0.pom
+2016-07-07 22:25:32,881 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.7/maven-core-2.0.7.pom
+2016-07-07 22:25:32,966 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.7/maven-core-2.0.7.pom
+2016-07-07 22:25:33,048 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.7/maven-2.0.7.pom
+2016-07-07 22:25:33,135 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.7/maven-2.0.7.pom
+2016-07-07 22:25:33,227 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.7/maven-settings-2.0.7.pom
+2016-07-07 22:25:33,309 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.7/maven-settings-2.0.7.pom
+2016-07-07 22:25:33,400 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.7/maven-model-2.0.7.pom
+2016-07-07 22:25:33,485 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.7/maven-model-2.0.7.pom
+2016-07-07 22:25:33,583 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.7/maven-plugin-parameter-documenter-2.0.7.pom
+2016-07-07 22:25:33,670 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.7/maven-plugin-parameter-documenter-2.0.7.pom
+2016-07-07 22:25:33,758 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.7/maven-reporting-api-2.0.7.pom
+2016-07-07 22:25:33,842 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.7/maven-reporting-api-2.0.7.pom
+2016-07-07 22:25:33,924 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.7/maven-reporting-2.0.7.pom
+2016-07-07 22:25:34,016 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.7/maven-reporting-2.0.7.pom
+2016-07-07 22:25:34,105 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.7/maven-profile-2.0.7.pom
+2016-07-07 22:25:34,188 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.7/maven-profile-2.0.7.pom
+2016-07-07 22:25:34,272 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.7/maven-artifact-2.0.7.pom
+2016-07-07 22:25:34,355 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.7/maven-artifact-2.0.7.pom
+2016-07-07 22:25:34,440 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.7/maven-repository-metadata-2.0.7.pom
+2016-07-07 22:25:34,525 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.7/maven-repository-metadata-2.0.7.pom
+2016-07-07 22:25:34,610 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.7/maven-error-diagnostics-2.0.7.pom
+2016-07-07 22:25:34,694 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.7/maven-error-diagnostics-2.0.7.pom
+2016-07-07 22:25:34,780 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.7/maven-project-2.0.7.pom
+2016-07-07 22:25:34,868 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.7/maven-project-2.0.7.pom
+2016-07-07 22:25:34,952 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.7/maven-artifact-manager-2.0.7.pom
+2016-07-07 22:25:35,033 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.7/maven-artifact-manager-2.0.7.pom
+2016-07-07 22:25:35,119 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.7/maven-plugin-registry-2.0.7.pom
+2016-07-07 22:25:35,203 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.7/maven-plugin-registry-2.0.7.pom
+2016-07-07 22:25:35,291 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.7/maven-plugin-api-2.0.7.pom
+2016-07-07 22:25:35,375 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.7/maven-plugin-api-2.0.7.pom
+2016-07-07 22:25:35,460 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.7/maven-plugin-descriptor-2.0.7.pom
+2016-07-07 22:25:35,545 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.7/maven-plugin-descriptor-2.0.7.pom
+2016-07-07 22:25:35,634 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.7/maven-monitor-2.0.7.pom
+2016-07-07 22:25:35,716 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.7/maven-monitor-2.0.7.pom
+2016-07-07 22:25:35,987 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.0/maven-settings-2.2.0.pom
+2016-07-07 22:25:36,074 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.0/maven-settings-2.2.0.pom
+2016-07-07 22:25:36,158 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.0/maven-model-2.2.0.pom
+2016-07-07 22:25:36,246 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.0/maven-model-2.2.0.pom
+2016-07-07 22:25:36,370 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.0/maven-artifact-2.2.0.pom
+2016-07-07 22:25:36,455 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.0/maven-artifact-2.2.0.pom
+2016-07-07 22:25:36,555 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.pom
+2016-07-07 22:25:36,638 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.pom
+2016-07-07 22:25:36,722 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether/0.9.0.M2/aether-0.9.0.M2.pom
+2016-07-07 22:25:36,823 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether/0.9.0.M2/aether-0.9.0.M2.pom
+2016-07-07 22:25:36,931 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0/doxia-sink-api-1.0.pom
+2016-07-07 22:25:37,015 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0/doxia-sink-api-1.0.pom
+2016-07-07 22:25:37,100 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.0/doxia-1.0.pom
+2016-07-07 22:25:37,186 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.0/doxia-1.0.pom
+2016-07-07 22:25:37,269 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/10/maven-parent-10.pom
+2016-07-07 22:25:37,354 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/10/maven-parent-10.pom
+2016-07-07 22:25:37,440 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.0/doxia-site-renderer-1.0.pom
+2016-07-07 22:25:37,529 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.0/doxia-site-renderer-1.0.pom
+2016-07-07 22:25:37,612 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sitetools/1.0/doxia-sitetools-1.0.pom
+2016-07-07 22:25:37,699 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sitetools/1.0/doxia-sitetools-1.0.pom
+2016-07-07 22:25:37,783 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-core/1.0/doxia-core-1.0.pom
+2016-07-07 22:25:37,871 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-core/1.0/doxia-core-1.0.pom
+2016-07-07 22:25:37,954 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.7/plexus-utils-1.5.7.pom
+2016-07-07 22:25:38,039 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.7/plexus-utils-1.5.7.pom
+2016-07-07 22:25:38,167 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-i18n/1.0-beta-7/plexus-i18n-1.0-beta-7.pom
+2016-07-07 22:25:38,249 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-i18n/1.0-beta-7/plexus-i18n-1.0-beta-7.pom
+2016-07-07 22:25:38,331 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.12/plexus-components-1.1.12.pom
+2016-07-07 22:25:38,412 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.12/plexus-components-1.1.12.pom
+2016-07-07 22:25:38,496 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-velocity/1.1.7/plexus-velocity-1.1.7.pom
+2016-07-07 22:25:38,579 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-velocity/1.1.7/plexus-velocity-1.1.7.pom
+2016-07-07 22:25:38,662 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-20/plexus-container-default-1.0-alpha-20.pom
+2016-07-07 22:25:38,744 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-20/plexus-container-default-1.0-alpha-20.pom
+2016-07-07 22:25:38,826 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0-alpha-20/plexus-containers-1.0-alpha-20.pom
+2016-07-07 22:25:38,913 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0-alpha-20/plexus-containers-1.0-alpha-20.pom
+2016-07-07 22:25:38,996 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.3/plexus-utils-1.3.pom
+2016-07-07 22:25:39,076 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.3/plexus-utils-1.3.pom
+2016-07-07 22:25:39,196 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.1/commons-collections-3.1.pom
+2016-07-07 22:25:39,282 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.1/commons-collections-3.1.pom
+2016-07-07 22:25:39,389 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.0/doxia-decoration-model-1.0.pom
+2016-07-07 22:25:39,473 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.0/doxia-decoration-model-1.0.pom
+2016-07-07 22:25:39,557 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2.pom
+2016-07-07 22:25:39,646 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2.pom
+2016-07-07 22:25:39,733 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-apt/1.0/doxia-module-apt-1.0.pom
+2016-07-07 22:25:39,818 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-apt/1.0/doxia-module-apt-1.0.pom
+2016-07-07 22:25:39,901 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-modules/1.0/doxia-modules-1.0.pom
+2016-07-07 22:25:39,985 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-modules/1.0/doxia-modules-1.0.pom
+2016-07-07 22:25:40,069 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-fml/1.0/doxia-module-fml-1.0.pom
+2016-07-07 22:25:40,152 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-fml/1.0/doxia-module-fml-1.0.pom
+2016-07-07 22:25:40,236 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xdoc/1.0/doxia-module-xdoc-1.0.pom
+2016-07-07 22:25:40,324 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xdoc/1.0/doxia-module-xdoc-1.0.pom
+2016-07-07 22:25:40,409 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/1.0/doxia-module-xhtml-1.0.pom
+2016-07-07 22:25:40,491 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/1.0/doxia-module-xhtml-1.0.pom
+2016-07-07 22:25:40,617 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/felix/maven-bundle-plugin/2.5.3/maven-bundle-plugin-2.5.3.jar
+2016-07-07 22:25:40,786 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/felix/maven-bundle-plugin/2.5.3/maven-bundle-plugin-2.5.3.jar
+2016-07-07 22:25:40,865 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/biz/aQute/bnd/bndlib/2.3.0/bndlib-2.3.0.jar
+2016-07-07 22:25:42,605 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/biz/aQute/bnd/bndlib/2.3.0/bndlib-2.3.0.jar
+2016-07-07 22:25:42,679 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.jar
+2016-07-07 22:25:43,172 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.jar
+2016-07-07 22:25:43,247 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/felix/org.apache.felix.bundlerepository/1.6.6/org.apache.felix.bundlerepository-1.6.6.jar
+2016-07-07 22:25:43,351 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/felix/org.apache.felix.bundlerepository/1.6.6/org.apache.felix.bundlerepository-1.6.6.jar
+2016-07-07 22:25:43,426 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/easymock/easymock/2.4/easymock-2.4.jar
+2016-07-07 22:25:43,518 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/easymock/easymock/2.4/easymock-2.4.jar
+2016-07-07 22:25:43,595 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/felix/org.apache.felix.utils/1.6.0/org.apache.felix.utils-1.6.0.jar
+2016-07-07 22:25:43,684 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/felix/org.apache.felix.utils/1.6.0/org.apache.felix.utils-1.6.0.jar
+2016-07-07 22:25:43,759 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/osgi/org.osgi.compendium/4.2.0/org.osgi.compendium-4.2.0.jar
+2016-07-07 22:25:44,015 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/osgi/org.osgi.compendium/4.2.0/org.osgi.compendium-4.2.0.jar
+2016-07-07 22:25:44,090 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.7/maven-core-2.0.7.jar
+2016-07-07 22:25:44,265 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.7/maven-core-2.0.7.jar
+2016-07-07 22:25:44,339 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.7/maven-settings-2.0.7.jar
+2016-07-07 22:25:44,502 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.7/maven-settings-2.0.7.jar
+2016-07-07 22:25:44,578 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.7/maven-plugin-parameter-documenter-2.0.7.jar
+2016-07-07 22:25:44,689 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.7/maven-plugin-parameter-documenter-2.0.7.jar
+2016-07-07 22:25:44,764 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.7/maven-reporting-api-2.0.7.jar
+2016-07-07 22:25:44,883 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.7/maven-reporting-api-2.0.7.jar
+2016-07-07 22:25:44,958 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.7/maven-profile-2.0.7.jar
+2016-07-07 22:25:45,102 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.7/maven-profile-2.0.7.jar
+2016-07-07 22:25:45,180 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.7/maven-model-2.0.7.jar
+2016-07-07 22:25:45,268 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.7/maven-model-2.0.7.jar
+2016-07-07 22:25:45,343 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.7/maven-artifact-2.0.7.jar
+2016-07-07 22:25:45,439 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.7/maven-artifact-2.0.7.jar
+2016-07-07 22:25:45,518 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.7/maven-repository-metadata-2.0.7.jar
+2016-07-07 22:25:45,639 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.7/maven-repository-metadata-2.0.7.jar
+2016-07-07 22:25:45,715 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.7/maven-error-diagnostics-2.0.7.jar
+2016-07-07 22:25:45,828 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.7/maven-error-diagnostics-2.0.7.jar
+2016-07-07 22:25:45,904 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.7/maven-project-2.0.7.jar
+2016-07-07 22:25:45,997 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.7/maven-project-2.0.7.jar
+2016-07-07 22:25:46,072 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.7/maven-plugin-registry-2.0.7.jar
+2016-07-07 22:25:46,200 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.7/maven-plugin-registry-2.0.7.jar
+2016-07-07 22:25:46,275 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.7/maven-plugin-api-2.0.7.jar
+2016-07-07 22:25:46,392 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.7/maven-plugin-api-2.0.7.jar
+2016-07-07 22:25:46,468 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.7/maven-plugin-descriptor-2.0.7.jar
+2016-07-07 22:25:46,606 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.7/maven-plugin-descriptor-2.0.7.jar
+2016-07-07 22:25:46,684 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.7/maven-artifact-manager-2.0.7.jar
+2016-07-07 22:25:46,772 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.7/maven-artifact-manager-2.0.7.jar
+2016-07-07 22:25:46,848 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.7/maven-monitor-2.0.7.jar
+2016-07-07 22:25:46,957 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.7/maven-monitor-2.0.7.jar
+2016-07-07 22:25:47,032 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.jar
+2016-07-07 22:25:47,131 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.jar
+2016-07-07 22:25:47,206 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0/doxia-sink-api-1.0.jar
+2016-07-07 22:25:47,310 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0/doxia-sink-api-1.0.jar
+2016-07-07 22:25:47,385 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.0/doxia-site-renderer-1.0.jar
+2016-07-07 22:25:47,544 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.0/doxia-site-renderer-1.0.jar
+2016-07-07 22:25:47,628 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-core/1.0/doxia-core-1.0.jar
+2016-07-07 22:25:47,797 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-core/1.0/doxia-core-1.0.jar
+2016-07-07 22:25:47,875 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-i18n/1.0-beta-7/plexus-i18n-1.0-beta-7.jar
+2016-07-07 22:25:47,979 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-i18n/1.0-beta-7/plexus-i18n-1.0-beta-7.jar
+2016-07-07 22:25:48,055 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-velocity/1.1.7/plexus-velocity-1.1.7.jar
+2016-07-07 22:25:48,158 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-velocity/1.1.7/plexus-velocity-1.1.7.jar
+2016-07-07 22:25:48,235 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.0/doxia-decoration-model-1.0.jar
+2016-07-07 22:25:48,399 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.0/doxia-decoration-model-1.0.jar
+2016-07-07 22:25:48,477 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2.jar
+2016-07-07 22:25:48,769 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2.jar
+2016-07-07 22:25:48,849 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-apt/1.0/doxia-module-apt-1.0.jar
+2016-07-07 22:25:48,959 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-apt/1.0/doxia-module-apt-1.0.jar
+2016-07-07 22:25:49,035 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-fml/1.0/doxia-module-fml-1.0.jar
+2016-07-07 22:25:49,158 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-fml/1.0/doxia-module-fml-1.0.jar
+2016-07-07 22:25:49,235 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xdoc/1.0/doxia-module-xdoc-1.0.jar
+2016-07-07 22:25:49,366 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xdoc/1.0/doxia-module-xdoc-1.0.jar
+2016-07-07 22:25:49,443 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/1.0/doxia-module-xhtml-1.0.jar
+2016-07-07 22:25:49,565 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/1.0/doxia-module-xhtml-1.0.jar
+2016-07-07 22:26:59,019 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-07-07 22:26:59,105 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\TestJson
+2016-07-07 22:26:59,109 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-07-07 22:28:31,973 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-07-07 22:28:32,048 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\TestJson
+2016-07-07 22:28:32,054 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-07-07 22:35:19,395 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-07-07 22:35:19,480 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\WorkSpaces\SamplesWS\TestJson
+2016-07-07 22:35:19,488 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2017-02-06 23:30:49,246 [Worker-13] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2017-02-06 23:30:49,347 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CxfRestService:CxfRestService:1.0.0-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\CxfRestService\pom.xml.
+2017-02-06 23:30:51,912 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: awesley.samples:JAXRSCxfSample:0.1-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\JAXRSCxfSample\pom.xml.
+2017-02-06 23:30:52,488 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:RESTfulExample:1.0-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\RESTfulExample\pom.xml.
+2017-02-06 23:30:52,825 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.SamplesAW:ReactSample:0.0.1-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\ReactSample\pom.xml.
+2017-02-06 23:30:54,527 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: awesley.samples:SpringBootJAXRS:0.0.1-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\SpringBootJAXRS\pom.xml.
+2017-02-06 23:30:58,509 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-02-06 23:30:58,545 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-02-06 23:30:58,785 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.SamplesAW:TestJson:0.0.1-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\TestJson\pom.xml.
+2017-02-06 23:30:59,027 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: awesley.samples:VisitorPattern:0.0.1-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\VisitorPattern\pom.xml.
+2017-02-06 23:30:59,078 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.techartifact.examples:spring-RESTApplication:1.0 @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\spring-RESTapplication\pom.xml.
+2017-02-06 23:31:00,452 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.1.12/jaxb-impl-2.1.12.pom
+2017-02-06 23:31:00,583 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.1.12/jaxb-impl-2.1.12.pom
+2017-02-06 23:31:01,977 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.1.12/jaxb-impl-2.1.12.jar
+2017-02-06 23:31:02,837 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.1.12/jaxb-impl-2.1.12.jar
+2017-02-06 23:31:34,947 [Worker-13] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 45718 ms
+2017-02-06 23:32:52,292 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-06 23:32:52,557 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CxfRestService:CxfRestService:1.0.0-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\CxfRestService\pom.xml.
+2017-02-06 23:32:53,554 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CxfRestService/src
+2017-02-06 23:32:53,555 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CxfRestService/src/test/java because it overlaps with /CxfRestService/src
+2017-02-06 23:32:59,125 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CxfRestService
+2017-02-06 23:32:59,136 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2017-02-06 23:38:35,718 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-02-06 23:38:58,749 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\CxfRestService
+2017-02-06 23:38:58,757 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2017-02-06 23:39:18,328 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-06 23:39:18,431 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CxfRestService:CxfRestService:1.0.0-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\CxfRestService\pom.xml.
+2017-02-06 23:39:19,242 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CxfRestService/src
+2017-02-06 23:39:19,242 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CxfRestService/src/test/java because it overlaps with /CxfRestService/src
+2017-02-06 23:39:19,714 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CxfRestService
+2017-02-06 23:39:19,718 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-02-06 23:41:16,595 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CxfRestService:CxfRestService:1.0.0-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\CxfRestService\pom.xml.
+2017-02-06 23:43:38,631 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-02-06 23:43:38,736 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\CxfRestService
+2017-02-06 23:43:38,736 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2017-02-06 23:57:05,663 [Worker-62] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-06 23:57:05,752 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CxfRestService:CxfRestService:1.0.0-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\CxfRestService\pom.xml.
+2017-02-06 23:57:06,519 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CxfRestService/src
+2017-02-06 23:57:06,519 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CxfRestService/src/test/java because it overlaps with /CxfRestService/src
+2017-02-06 23:57:06,916 [Worker-62] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CxfRestService
+2017-02-06 23:57:06,919 [Worker-62] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-02-06 23:58:18,365 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-02-06 23:58:33,405 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\CxfRestService
+2017-02-06 23:58:33,414 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-02-16 22:04:26,478 [Worker-1] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2017-02-16 22:05:09,759 [Worker-1] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 43284 ms
+2017-02-16 22:07:49,586 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-02-16 22:07:49,612 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-02-16 22:15:13,740 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-16 22:15:16,747 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: awesley.samples:SpringBootJAXRS:0.0.1-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\SpringBootJAXRS\pom.xml.
+2017-02-16 22:15:17,162 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-02-16 22:15:17,177 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-02-16 22:15:18,913 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootJAXRS/src/main/java
+2017-02-16 22:15:18,914 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootJAXRS/src/main/resources
+2017-02-16 22:15:18,914 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootJAXRS/src/main/resources
+2017-02-16 22:15:18,915 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootJAXRS/src/test/java
+2017-02-16 22:15:19,368 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2017-02-16 22:18:02,271 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-02-16 22:18:02,279 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-02-16 22:18:05,387 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-02-16 22:18:20,620 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\SpringBootJAXRS
+2017-02-16 22:18:20,622 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2017-02-16 22:23:15,502 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\SpringBootJAXRS
+2017-02-16 22:23:15,502 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-02-16 22:23:23,435 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-02-16 22:23:23,501 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\SpringBootJAXRS
+2017-02-16 22:23:23,512 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2017-02-16 22:23:41,810 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: awesley.samples:SpringBootJAXRS:0.0.1-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\SpringBootJAXRS\pom.xml.
+2017-02-16 22:23:43,247 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:23:43,259 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:23:43,274 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:23:43,277 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:23:43,283 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\SpringBootJAXRS\src\test\resources
+2017-02-16 22:24:52,311 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-02-16 22:24:52,324 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\SpringBootJAXRS
+2017-02-16 22:24:52,325 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2017-02-16 22:25:32,879 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-02-16 22:25:32,967 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\SpringBootJAXRS
+2017-02-16 22:25:32,974 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2017-02-16 22:25:57,060 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-16 22:25:57,428 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: awesley.samples:SpringBootJAXRS:0.0.1-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\SpringBootJAXRS\pom.xml.
+2017-02-16 22:25:58,081 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootJAXRS/src/main/java
+2017-02-16 22:25:58,082 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootJAXRS/src/main/resources
+2017-02-16 22:25:58,089 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootJAXRS/src/main/resources
+2017-02-16 22:25:58,090 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootJAXRS/src/test/java
+2017-02-16 22:25:58,291 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-02-16 22:26:13,621 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:26:13,623 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-16 22:26:13,659 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-16 22:26:13,662 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:26:13,674 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\SpringBootJAXRS\src\test\resources
+2017-02-17 18:52:59,273 [Worker-14] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2017-02-17 18:53:47,739 [Worker-14] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 48483 ms
+2017-02-17 18:57:14,163 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/archetype/cxf-jaxrs-service/3.1.10/cxf-jaxrs-service-3.1.10.jar
+2017-02-17 18:57:14,347 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/archetype/cxf-jaxrs-service/3.1.10/cxf-jaxrs-service-3.1.10.jar
+2017-02-17 18:57:14,452 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/archetype/cxf-jaxrs-service/3.1.10/cxf-jaxrs-service-3.1.10.pom
+2017-02-17 18:57:14,555 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/archetype/cxf-jaxrs-service/3.1.10/cxf-jaxrs-service-3.1.10.pom
+2017-02-17 18:57:59,953 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\CxfJaxrsFromArchetype\pom.xml
+2017-02-17 18:58:03,812 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.awesley.samples:CxfJaxrsFromArchetype:0.0.1-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\CxfJaxrsFromArchetype\pom.xml.
+2017-02-17 18:58:04,390 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/3.1.10/cxf-rt-frontend-jaxrs-3.1.10.pom
+2017-02-17 18:58:04,524 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/3.1.10/cxf-rt-frontend-jaxrs-3.1.10.pom
+2017-02-17 18:58:04,624 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-parent/3.1.10/cxf-parent-3.1.10.pom
+2017-02-17 18:58:04,968 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-parent/3.1.10/cxf-parent-3.1.10.pom
+2017-02-17 18:58:05,086 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/cxf/cxf/3.1.10/cxf-3.1.10.pom
+2017-02-17 18:58:05,192 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/cxf/cxf/3.1.10/cxf-3.1.10.pom
+2017-02-17 18:58:05,296 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-core/3.1.10/cxf-core-3.1.10.pom
+2017-02-17 18:58:05,404 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-core/3.1.10/cxf-core-3.1.10.pom
+2017-02-17 18:58:05,662 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-transports-http/3.1.10/cxf-rt-transports-http-3.1.10.pom
+2017-02-17 18:58:05,767 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-transports-http/3.1.10/cxf-rt-transports-http-3.1.10.pom
+2017-02-17 18:58:05,869 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-client/3.1.10/cxf-rt-rs-client-3.1.10.pom
+2017-02-17 18:58:05,983 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-client/3.1.10/cxf-rt-rs-client-3.1.10.pom
+2017-02-17 18:58:06,290 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/3.1.10/cxf-rt-frontend-jaxrs-3.1.10.jar
+2017-02-17 18:58:06,725 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/3.1.10/cxf-rt-frontend-jaxrs-3.1.10.jar
+2017-02-17 18:58:06,813 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-core/3.1.10/cxf-core-3.1.10.jar
+2017-02-17 18:58:07,247 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-core/3.1.10/cxf-core-3.1.10.jar
+2017-02-17 18:58:07,337 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-transports-http/3.1.10/cxf-rt-transports-http-3.1.10.jar
+2017-02-17 18:58:07,509 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-transports-http/3.1.10/cxf-rt-transports-http-3.1.10.jar
+2017-02-17 18:58:07,600 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-client/3.1.10/cxf-rt-rs-client-3.1.10.jar
+2017-02-17 18:58:07,730 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-client/3.1.10/cxf-rt-rs-client-3.1.10.jar
+2017-02-17 18:58:10,910 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CxfJaxrsFromArchetype/src/main/java
+2017-02-17 18:58:10,911 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CxfJaxrsFromArchetype/src/test/java
+2017-02-17 18:58:12,853 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2017-02-17 18:58:14,944 [Worker-18] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/AWesley/AppData/Local/Temp/RemoteBundleDiscoveryStrategy7187428374964601577.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_1207144659127979627.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2017-02-17 18:58:14,945 [Worker-18] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2017-02-17 18:58:14,958 [Worker-18] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/AWesley/AppData/Local/Temp/RemoteBundleDiscoveryStrategy7187428374964601577.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_1207144659127979627.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2017-02-17 18:58:14,959 [Worker-18] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2017-02-17 19:00:27,738 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-17 19:00:28,196 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.awesley.samples:CxfJaxrsFromArchetype:0.0.1-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\CxfJaxrsFromArchetype\pom.xml.
+2017-02-17 19:00:28,884 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CxfJaxrsFromArchetype/src/main/java
+2017-02-17 19:00:28,885 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CxfJaxrsFromArchetype/src/test/java
+2017-02-17 19:00:29,579 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CxfJaxrsFromArchetype
+2017-02-17 19:00:29,595 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-02-17 19:03:21,778 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-17 19:03:22,182 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.awesley.samples:CxfJaxrsFromArchetype:0.0.1-SNAPSHOT @ C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\CxfJaxrsFromArchetype\pom.xml.
+2017-02-17 19:03:22,825 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CxfJaxrsFromArchetype/src/main/java
+2017-02-17 19:03:22,837 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CxfJaxrsFromArchetype/src/test/java
+2017-02-17 19:03:23,191 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CxfJaxrsFromArchetype
+2017-02-17 19:03:23,196 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-02-17 19:03:29,422 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-02-17 19:03:41,763 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\CxfJaxrsFromArchetype
+2017-02-17 19:03:41,764 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2017-02-18 00:51:12,811 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-18 00:51:12,821 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\CxfJaxrsFromArchetype\src\main\resources
+2017-02-18 00:51:12,828 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-18 00:51:12,834 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\AWesley\workspace\WorkSpaces\SamplesWS\CxfJaxrsFromArchetype\src\test\resources
+2017-02-18 00:51:12,839 [Worker-147] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CxfJaxrsFromArchetype
+2017-02-18 00:51:12,851 [Worker-147] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CxfJaxrsFromArchetype
+2017-02-18 00:51:13,654 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!

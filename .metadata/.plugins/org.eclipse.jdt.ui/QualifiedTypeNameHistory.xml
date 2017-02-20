@@ -19,7 +19,6 @@
 <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
 <fullyQualifiedTypeName name="org.springframework.boot.context.embedded.ServletRegistrationBean"/>
 <fullyQualifiedTypeName name="org.apache.catalina.core.ApplicationContext"/>
-<fullyQualifiedTypeName name="org.apache.cxf.jaxrs.JAXRSServerFactoryBean"/>
 <fullyQualifiedTypeName name="javax.ws.rs.Path"/>
 <fullyQualifiedTypeName name="javax.ws.rs.GET"/>
 <fullyQualifiedTypeName name="javax.ws.rs.core.Application"/>
@@ -28,5 +27,16 @@
 <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration"/>
 <fullyQualifiedTypeName name="awesley.samples.SpringBootJAXRS.SpringBootJaxrsApplication"/>
 <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="java.awt.Point"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="awesley.samples.VisitorPattern.IVisitorAcceptor"/>
+<fullyQualifiedTypeName name="awesley.samples.VisitorPattern.ShapeVisitorResolver"/>
+<fullyQualifiedTypeName name="awesley.samples.VisitorPattern.ShapeDrawVisitorResolver"/>
+<fullyQualifiedTypeName name="awesley.samples.VisitorPattern.CircleDrawVisitor"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="awesley.samples.VisitorPattern.SquareDrawVisitor"/>
+<fullyQualifiedTypeName name="awesley.samples.VisitorPattern.ShapeVisitorAcceptor"/>
 <fullyQualifiedTypeName name="org.apache.cxf.jaxrs.spring.JaxRsConfig"/>
+<fullyQualifiedTypeName name="org.apache.cxf.jaxrs.JAXRSServerFactoryBean"/>
+<fullyQualifiedTypeName name="org.apache.cxf.transport.servlet.CXFServlet"/>
 </qualifiedTypeNameHistroy>
