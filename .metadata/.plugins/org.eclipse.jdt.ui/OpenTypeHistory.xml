@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-<typeInfo handle="=VisitorPattern/src\/main\/java&lt;awesley.samples.VisitorPattern{Shape.java[Shape" modifiers="1025" timestamp="1455831122485"/>
-<typeInfo handle="=VisitorPattern/src\/main\/java&lt;awesley.samples.VisitorPattern{ShapeVisitorAcceptor.java[ShapeVisitorAcceptor" modifiers="1" timestamp="1456437335738"/>
-<typeInfo handle="=VisitorPattern/src\/main\/java&lt;awesley.samples.VisitorPattern{ShapeDrawVisitorResolver.java[ShapeDrawVisitorResolver" modifiers="1" timestamp="1456437388283"/>
-<typeInfo handle="=VisitorPattern/src\/main\/java&lt;awesley.samples.VisitorPattern{ShapeVisitorResolver.java[ShapeVisitorResolver" modifiers="1" timestamp="1456435639573"/>
-<typeInfo handle="=VisitorPattern/src\/main\/java&lt;awesley.samples.VisitorPattern{IVisitor.java[IVisitor" modifiers="513" timestamp="1455830865176"/>
-<typeInfo handle="=VisitorPattern/src\/main\/java&lt;awesley.samples.VisitorPattern{IVisitorAcceptor.java[IVisitorAcceptor" modifiers="513" timestamp="1456305894527"/>
-</typeInfoHistroy>
